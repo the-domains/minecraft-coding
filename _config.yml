@@ -1,3 +1,4 @@
+layout_spectrum: 0.46449198899790645
 typography_spectrum: 0.6157770580612123
 color:
   brandStrength: 0.43262120499275625
@@ -5,12 +6,9 @@ color:
   saturation: 0.12445690063759685
   rhythmicContrast: 0.916613234905526
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-layout_spectrum: 0.46449198899790645
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Minecraft Coding
-title: Minecraft
-description: Marinecal’s Minecraft Site
